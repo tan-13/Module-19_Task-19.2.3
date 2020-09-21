@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2506e918-1c33-4c4a-be5c-3d5fd7651090" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hfhrxDC5pc0brnJuoU7QDwFlEh" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="pytest_19_module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Tanchik_13\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for 19_mod_tests.TestCalc" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest_19_module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;19_mod_tests.TestCalc&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for 19_mod_tests.TestCalc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2506e918-1c33-4c4a-be5c-3d5fd7651090" name="Default Changelist" comment="" />
+      <created>1600408256297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600408256297</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600408918132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1600408918132" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1600408913638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1600408913638" />
+    <state x="507" y="282" key="Github.CreateGistDialog" timestamp="1600409083657">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="282" key="Github.CreateGistDialog/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1600409083657" />
+    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1600409954588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1600409954588" />
+    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1600409954588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1600409954588" />
+    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1600409954587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1600409954587" />
+    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1600409954588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.720@0.0.1366.728" timestamp="1600409954588" />
+  </component>
+</project>
